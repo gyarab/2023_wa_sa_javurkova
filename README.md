@@ -1,9 +1,5 @@
 # Sabina Javůrková
 
-fav filmy:
-
-
-
 fav písničky:
 1. hlasy v hlavě
 
@@ -13,12 +9,7 @@ oblíbené zvíře:<br>
 rank | fav jidla
 -----|-----------
 1    | sushi
-2    | tšstovinky se špenátem
+2    | těstovinky se špenátem
+3    | kremrole
 
-
-   
-
-
-
-
-[hotel](https://number11.com/)
+[odkaz](https://gyarab.ddns.net/)
