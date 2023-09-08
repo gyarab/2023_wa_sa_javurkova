@@ -1,9 +1,6 @@
 # Sabina Javůrková
 
-První řádek.  
-Druhý řádek
-Třetí řádek.
-
+První řádek.  Druhý řádek.
 
 
 
