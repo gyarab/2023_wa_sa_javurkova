@@ -1,8 +1,15 @@
 # Sabina Javůrková
 
-Moje nejoblíbenější jídla:
-1. tvoje máma
-2. sushi
+fav filmy:
+
+
+
+fav písničky:
+1. hlasy v hlavě
+
+oblíbené zvíře:
+!(https://pbs.twimg.com/profile_images/1661042431716990976/z3PDWK2__400x400.jpg)
+
 
    
 
