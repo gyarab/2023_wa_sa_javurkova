@@ -1,4 +1,4 @@
-# Sabina Javůrková
+# Sabča
 
 fav písničky:
 1. hlasy v hlavě
@@ -13,3 +13,15 @@ rank | fav jidla
 3    | kremrole
 
 [odkaz](https://gyarab.ddns.net/)
+
+### seznam
+
+- [ ] 1
+- [x] 2
+- [x] 3
+- [x] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
