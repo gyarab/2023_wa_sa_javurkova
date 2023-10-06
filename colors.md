@@ -17,7 +17,11 @@ Dominantní barva je zde **barva červená**
 
 # Sada mých barev
 
-![placeholder](https://placehold.co/300x300/fad0f7/FFF)  
+![placeholder1](https://placehold.co/200x200/fad0f7/FFF)  
+![placeholder2](https://placehold.co/200x200/d8f5ff/FFF)  
+![placeholder3](https://placehold.co/200x200/FFFFFF/000000)  
+![placeholder4](https://placehold.co/200x200/D6FFDE/FFF)  
+
 https://placehold.co/600x400/000000/fad0f7
 #fad0f7
 #d8f5ff
