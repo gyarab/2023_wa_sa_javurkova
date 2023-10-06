@@ -15,6 +15,7 @@ Dominantní barva je zde **barva červená**
 - V logu je použutá, protože **poutá zákazníkovu pozornost**, **zesiluje touhu** a **vyvolává pocity štěstí a radosti**
 <br>
 
+# Sada mých barev
 
 ![placeholder](https://placehold.co/300x300/fad0f7/FFF)  
 https://placehold.co/600x400/000000/fad0f7
