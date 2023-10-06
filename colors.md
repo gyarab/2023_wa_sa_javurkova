@@ -13,3 +13,4 @@ Dominantní barva je zde **barva červená**
 - V marketingovém světě funguje žlutá barva na podobné bázi jako červená
 - Podporuje **energii**, **štěstí**, **rychlost**, **optimismus**
 - V logu je použutá, protože **poutá zákazníkovu pozornost**, **zesiluje touhu** a **vyvolává pocity štěstí a radosti**
+<br>
