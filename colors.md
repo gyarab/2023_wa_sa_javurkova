@@ -1,4 +1,4 @@
-<h1> McDonald´s logo rozbor <h1>
+<h1> McDonald´s logo rozbor </h1>
 
 ![logo](https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo.png)  
 
@@ -16,7 +16,7 @@ Dominantní barva je zde **barva červená**
 <br>
 
 
-<h1> Sada mých barev <h1>
+<h1> Sada mých barev </h1>
 
 ![placeholder1](https://placehold.co/200x200/fad0f7/fad0f7) 
 ![placeholder2](https://placehold.co/200x200/d8f5ff/d8f5ff) ![placeholder3](https://placehold.co/200x200/FFFFFF/FFFFFF) ![placeholder4](https://placehold.co/200x200/D6FFDE/D6FFDE)
