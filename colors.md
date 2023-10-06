@@ -8,6 +8,7 @@ Dominantní barva je zde **barva červená**
 - Jelikož dokáže věci v našich očích vykreslilt víc naléhavě, je tato barva často používaná při výprodejích (společně se žlutou - energie)
 - Výše zmíněné body vysvětlují proč je barva v logu použita: **nutí zákazníky nakupovat impulzivně** a v nejlepším případě (pro firmu) i **ve velkém** <br>
 
+
 **Žlutá barva** je v logu podřadná, ale nese svůj význam
 - V marketingovém světě funguje žlutá barva na podobné bázi jako červená
 - Podporuje **energii**, **štěstí**, **rychlost**, **optimismus**
