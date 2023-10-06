@@ -21,4 +21,5 @@ Dominantní barva je zde **barva červená**
 ![placeholder1](https://placehold.co/200x200/fad0f7/fad0f7) 
 ![placeholder2](https://placehold.co/200x200/d8f5ff/d8f5ff) ![placeholder3](https://placehold.co/200x200/FFFFFF/FFFFFF) ![placeholder4](https://placehold.co/200x200/D6FFDE/D6FFDE)
 
-Tyhle barvy jsem si vybrala, protože mi přijdou hezký a uklidňující
+Tyhle barvy jsem si vybrala, protože mi přijdou hezký a uklidňující.
+Podle mého názoru jsou to barvy jarní a mohly by být viděny někde třeba v nemocnicích - uklidňují pacienty.
