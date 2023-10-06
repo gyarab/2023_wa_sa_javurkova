@@ -2,5 +2,6 @@
 
 ![logo](https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo.png)  
 
-fdsfdf
+Dominantní barva je zde **barva červená*
+
 
