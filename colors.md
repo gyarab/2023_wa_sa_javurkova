@@ -12,7 +12,7 @@ Dominantní barva je zde **barva červená**
 **Žlutá barva** je v logu podřadná, ale nese svůj význam
 - V marketingovém světě funguje žlutá barva na podobné bázi jako červená
 - Podporuje **energii**, **štěstí**, **rychlost**, **optimismus**
-- V logu je použutá, protože **poutá zákazníkovu pozornost**, **zesiluje touhu** a **vyvolává pocity štěstí a radosti**
+- V logu je použitá, protože **poutá zákazníkovu pozornost**, **zesiluje touhu** a **vyvolává pocity štěstí a radosti**
 <br>
 
 # Sada mých barev
