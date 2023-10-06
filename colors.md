@@ -16,7 +16,7 @@ Dominantní barva je zde **barva červená**
 <br>
 
 
-![placeholder]([https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo.png](https://placehold.co/600x400/000000/fad0f7))  
+![placeholder](https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo.png)  
 https://placehold.co/600x400/000000/fad0f7
 #fad0f7
 #d8f5ff
