@@ -14,3 +14,10 @@ Dominantní barva je zde **barva červená**
 - Podporuje **energii**, **štěstí**, **rychlost**, **optimismus**
 - V logu je použutá, protože **poutá zákazníkovu pozornost**, **zesiluje touhu** a **vyvolává pocity štěstí a radosti**
 <br>
+
+
+https://placehold.co/600x400/000000/#fad0f7
+#fad0f7
+#d8f5ff
+#FFFFFF
+#D6FFDE
