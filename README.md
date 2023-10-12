@@ -15,7 +15,7 @@
 rank | Jidla
 -----|-----------
 1    | sushi
-2    | krupičná kaše
+2    | krupicová kaše
 3    | cannoli
 
 [Fiktivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
