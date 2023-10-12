@@ -2,9 +2,9 @@
 
 **Hudba od:**
 1. Lana Del Rey
-2. M83
-3. Coldplay
-4. Steve Sniff
+2. Steve Sniff
+3. M83
+4. Coldplay
 5. The Weeknd
 6. Travis Scott
 7. Metro Boomin
