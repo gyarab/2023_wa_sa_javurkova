@@ -6,13 +6,9 @@
 3. Coldplay
 4. Steve Sniff
 5. Labello
-<br>
-
 
 **Oblíbené zvíře:** <br>
 ![eepy](https://pbs.twimg.com/profile_images/1661042431716990976/z3PDWK2__400x400.jpg "mňau")
-<br>
-
 
 rank | fav jidla
 -----|-----------
@@ -20,12 +16,9 @@ rank | fav jidla
 2    | krupičná kaše
 3    | cannoli
 
-
 [Oblíbená fiktivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
 
-
 **Oblíbené aktivity**
-
 - [ ] vstávání v 5:20
 - [x] čtení
 - [ ] chemie
