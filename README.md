@@ -18,7 +18,7 @@ rank | fav jidla
 
 [Oblíbená fiktivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
 
-**Oblíbené aktivity**
+**Oblíbené aktivity:**
 - [ ] vstávání v 5:20
 - [x] čtení
 - [ ] chemie
