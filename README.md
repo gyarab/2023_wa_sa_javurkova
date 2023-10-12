@@ -5,7 +5,9 @@
 2. M83
 3. Coldplay
 4. Steve Sniff
-5. Labello
+5. The Weeknd
+6. Travis Scott
+7. Metro Boomin
 
 **Zvíře:** <br>
 ![eepy](https://pbs.twimg.com/profile_images/1661042431716990976/z3PDWK2__400x400.jpg "mňau")
