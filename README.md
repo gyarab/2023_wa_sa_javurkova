@@ -10,14 +10,17 @@
 
 **Oblíbené zvíře:** <br>
 ![eepy](https://pbs.twimg.com/profile_images/1661042431716990976/z3PDWK2__400x400.jpg "mňau")
+<br>
 
 rank | fav jidla
 -----|-----------
 1    | sushi
 2    | krupičná kaše
 3    | cannoli
+<br>
 
 [Oblíbená fiktivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
+<br>
 
 **Oblíbené aktivity**
 
