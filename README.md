@@ -16,7 +16,7 @@ rank | fav jidla
 2    | krupičná kaše
 3    | cannoli
 
-[Oblíbená fitivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
+[Oblíbená fiktivní postava](https://i.iinfo.cz/images/561/seznam-pes-ico_30-orig.jpg)
 
 ### Oblíbené aktivity
 
