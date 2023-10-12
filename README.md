@@ -7,6 +7,7 @@
 4. Steve Sniff
 5. Labello
 
+
 **Oblíbené zvíře:** <br>
 ![eepy](https://pbs.twimg.com/profile_images/1661042431716990976/z3PDWK2__400x400.jpg "mňau")
 
