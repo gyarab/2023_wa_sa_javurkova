@@ -4,9 +4,9 @@
 1. Lana Del Rey
 2. Steve Sniff
 3. M83
-4. Coldplay
+4. Travis Scott
 5. The Weeknd
-6. Travis Scott
+6. Coldplay
 7. Metro Boomin
 
 **Zvíře:** <br>
