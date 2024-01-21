@@ -1,0 +1,14 @@
+.card {
+    width: 150px;
+    height: 150px;
+}
+.pexeso-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    width: 640px;
+    margin: 0 auto; 
+}
+h1 {
+    text-align:center;
+}
